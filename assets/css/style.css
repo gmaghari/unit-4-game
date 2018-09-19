@@ -1,0 +1,60 @@
+/* BASIC DESIGN TO HW#4 */
+
+body {
+    background: url("../images/map.jpg");
+}
+
+h1 {
+    padding: 80px 0px 0px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 0px;
+    color: silver;
+}
+
+h2 {
+    font-family: cursive;
+    text-align: center;
+    border-bottom: 1px solid #bc7634;
+}
+
+h4 {
+    padding: 20px 60px 0px 60px;
+    text-align: center;
+    border-bottom: 1px solid #bc7634;
+}
+
+p {
+    font-family: 'Niconne', cursive;
+    font-size: 15pt;
+}
+
+.card {
+    position: relative;
+    margin-bottom: 20px;
+    border: 2px solid #bc7634;
+    padding: 0px 10px;
+}
+
+.jumbotron {
+    background: url("../images/Game-of-Thrones-s-4-Banner.jpg");
+}
+
+.wins {
+    padding: 20px 210px 20px 20px;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.losses {
+    padding-left: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+#randomNumber {
+    padding: 20px 20px 95px 20px;
+    text-align: center;
+    font-size: 40pt;
+}
