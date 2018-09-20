@@ -38,6 +38,7 @@ p {
 
 .jumbotron {
     background: url("../images/Game-of-Thrones-s-4-Banner.jpg");
+    border: 2px solid silver;
 }
 
 .wins {
